@@ -70,4 +70,8 @@ public class Account {
             System.out.println("Giao dich " + i + ": " + transitionList.get(i - 1).getInfo());
         }
     }
+
+    public static void main(String[] args) {
+
+    }
 }
